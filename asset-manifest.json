@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Wingingfowl/static/css/main.651212be.css",
+    "main.js": "/Wingingfowl/static/js/main.b10773b0.js",
+    "static/media/BirdsFlow2.PNG": "/Wingingfowl/static/media/BirdsFlow2.c5bb6d307e10c0b34c69.PNG",
+    "static/media/4_BaliMyna.png": "/Wingingfowl/static/media/4_BaliMyna.b6d3ec53546600ecfc27.png",
+    "static/media/6_Kingfisher.png": "/Wingingfowl/static/media/6_Kingfisher.7728b3cd2a73b3c70581.png",
+    "static/media/3_BlacknappedFruit Dove.png": "/Wingingfowl/static/media/3_BlacknappedFruit Dove.1e807b3e1eb29cf92952.png",
+    "static/media/2_StorkbilledKingfisher.png": "/Wingingfowl/static/media/2_StorkbilledKingfisher.b9f298bf6c4d2c5a63d7.png",
+    "static/media/1_Orange-belliedLeafbird.jpg": "/Wingingfowl/static/media/1_Orange-belliedLeafbird.73cd99abfbbbc954a6f7.jpg",
+    "static/media/14_Black-napedMonarch.jpg": "/Wingingfowl/static/media/14_Black-napedMonarch.ca434d6c5c05daea1682.jpg",
+    "static/media/20_EurasianTreeSparrow.jpg": "/Wingingfowl/static/media/20_EurasianTreeSparrow.912e1518b51bdd6bdfab.jpg",
+    "static/media/5_SavannaNightjar.png": "/Wingingfowl/static/media/5_SavannaNightjar.99a1bf687f99b14ccec5.png",
+    "static/media/18_BurmeseYuhina.jpg": "/Wingingfowl/static/media/18_BurmeseYuhina.23380451677894029e04.jpg",
+    "static/media/16_Chestnut-tailedStarling.jpg": "/Wingingfowl/static/media/16_Chestnut-tailedStarling.61cf3baa140bb2471731.jpg",
+    "static/media/8_HaircrestedDrongo.jpg": "/Wingingfowl/static/media/8_HaircrestedDrongo.1882b054a768626d9093.jpg",
+    "static/media/17_HoodedTreepie.jpg": "/Wingingfowl/static/media/17_HoodedTreepie.624f46d1c628ba44bc51.jpg",
+    "static/media/BirdsFlow1.PNG": "/Wingingfowl/static/media/BirdsFlow1.1a6e64e19b6b341ef695.PNG",
+    "static/media/9_Black-hoodedOriole.jpg": "/Wingingfowl/static/media/9_Black-hoodedOriole.da22c011b195467dbd6e.jpg",
+    "static/media/13_Olive-backedSunbird.jpg": "/Wingingfowl/static/media/13_Olive-backedSunbird.18b223f533da1417e70a.jpg",
+    "static/media/19_Scaly-breastedMunia.jpg": "/Wingingfowl/static/media/19_Scaly-breastedMunia.2aeca25bb03b46268e58.jpg",
+    "static/media/11_Ashy-headedGreenPigeon.jpg": "/Wingingfowl/static/media/11_Ashy-headedGreenPigeon.7007a173948438551f3b.jpg",
+    "static/media/15_White-rumpedShama.jpg": "/Wingingfowl/static/media/15_White-rumpedShama.973442aaea87993d62fe.jpg",
+    "static/media/BirdsMindMap.PNG": "/Wingingfowl/static/media/BirdsMindMap.2bad385d43a33159dd24.PNG",
+    "static/media/7_BluethroatedFlycatcher.jpg": "/Wingingfowl/static/media/7_BluethroatedFlycatcher.a601dd3b1a4de2afef4f.jpg",
+    "static/media/12_Chestnut-cappedlaughingthrush.jpg": "/Wingingfowl/static/media/12_Chestnut-cappedlaughingthrush.e552072f90bf2ec827a8.jpg",
+    "static/media/10_LineatedBarbet.jpg": "/Wingingfowl/static/media/10_LineatedBarbet.1eda7e028518e0191e8e.jpg",
+    "static/media/Dee_zigns.jpg": "/Wingingfowl/static/media/Dee_zigns.02238398020250e0ca58.jpg",
+    "static/media/README.md": "/Wingingfowl/static/media/README.a7c73e7d89a3ce1370d7.md",
+    "index.html": "/Wingingfowl/index.html",
+    "main.651212be.css.map": "/Wingingfowl/static/css/main.651212be.css.map",
+    "main.b10773b0.js.map": "/Wingingfowl/static/js/main.b10773b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.651212be.css",
+    "static/js/main.b10773b0.js"
+  ]
+}
